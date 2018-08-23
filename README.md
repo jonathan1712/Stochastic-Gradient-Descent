@@ -1,6 +1,7 @@
 # Instalación y Configuración de Jupyter Notebook
 
 ------------------------------------------------
+Instalación de Jupyter Notebook en Windows
 Instituto Tecnológico de Costa Rica 	      
 Escuela de Ingeniería en Computación       
 Curso: Inteligencia Artificial	      
@@ -10,7 +11,6 @@ Estudiantes:
 * Jonathan Martínez Camacho 	      
 * Mariana Rojas Semeraro 		      
 * Diego Tenorio Solís 		      
-Instalación de Jupyter Notebook en Windows 
 ------------------------------------------------
 
 ---------------	
