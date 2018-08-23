@@ -1,16 +1,16 @@
 # Instalación y Configuración de Jupyter Notebook
 
 ------------------------------------------------
--- Instituto Tecnológico de Costa Rica 	      --
--- Escuela de Ingeniería en Computación       --
--- Curso: Inteligencia Artificial	      --
--- Semestre 2 - 2018		 	      --
--- Proyecto corto 1 			      --
--- Estudiantes: 			      --
---	Jonathan Martínez Camacho 	      --
---	Mariana Rojas Semeraro 		      --
---	Diego Tenorio Solís 		      --
--- Instalación de Jupyter Notebook en Windows --
+Instituto Tecnológico de Costa Rica 	      
+Escuela de Ingeniería en Computación       
+Curso: Inteligencia Artificial	      
+Semestre 2 - 2018		 	      
+Proyecto corto 1 			      
+Estudiantes: 			      
+* Jonathan Martínez Camacho 	      
+* Mariana Rojas Semeraro 		      
+* Diego Tenorio Solís 		      
+Instalación de Jupyter Notebook en Windows 
 ------------------------------------------------
 
 ---------------	
@@ -37,23 +37,21 @@ Instalación y configuración de bibliotecas necesarias
 
 * Nota: al igual que con la instalación de Jupyter Notebook se necesita hacer uso del asistente de instalación pip, por lo cual se requiere que acceder a la carpeta donde este está instalado o en caso de que se encuentre como una variable de entorno nada más ejecutar los comandos sin moverse entre directorios.
 
-Ejecutar:
-
--------------
-Numpy
--------------
+-------------------------
+Instalación de Numpy
+-------------------------
 
 * pip install numpy
 
--------------
-Scipy
--------------
+-------------------------
+Instalación de Scipy
+-------------------------
 
 * pip install scipy
 
--------------
-Matplotlib
--------------
+-------------------------
+Instalación de Matplotlib
+-------------------------
 
 * pip install matplotlib
 
